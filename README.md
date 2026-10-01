@@ -1,2 +1,2 @@
-# COMM5780
+# workshop1
 Programming for Digital Media.
