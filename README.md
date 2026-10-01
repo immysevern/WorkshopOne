@@ -1,2 +1,2 @@
-# workshop1
+# workshopOne
 Programming for Digital Media.
